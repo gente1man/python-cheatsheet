@@ -4,7 +4,7 @@ Comprehensive Python Cheatsheet
 </sup>
 Поменял
 ![Monty Python](web/image_888.jpeg)
-
+Изменения
 
 Contents
 --------
